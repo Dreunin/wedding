@@ -163,6 +163,7 @@
 			margin: 10,
 			responsiveClass: true,
 			nav: true,
+			navText: ['Tilbage', 'Næste'],
 			dots: true,
 			smartSpeed: 800,
 			autoplay: true,
