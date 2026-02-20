@@ -1919,6 +1919,7 @@ form label {
 .heart-image {
   width: 10vw;
   height: auto;
+  opacity: 0.8;
 }
 
 /*# sourceMappingURL=style.css.map */
