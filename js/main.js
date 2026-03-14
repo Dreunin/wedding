@@ -240,6 +240,13 @@
 	var parallax = function() {
 		$(window).stellar();
 	};
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 50) {
+			$('.fh5co-nav').addClass('scrolled');
+		} else {
+			$('.fh5co-nav').removeClass('scrolled');
+		}
+	});
 
 	
 	$(function(){
