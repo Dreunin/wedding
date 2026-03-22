@@ -1,4 +1,17 @@
-Source code the website for our wedding (http://lineogvictor.dk/). Forked from [Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites](https://github.com/shyamjos/wedding-website)
+# Wedding Website
 
+Simple source code for our wedding website.
 
-## Screenshot
+Live site: http://lineogvictor.dk/
+
+## Run locally
+
+1. Open the project folder.
+2. Open index.html in a browser.
+
+## Zip whole project and put on hosting service
+
+## Credit
+
+Based on this theme:
+https://github.com/shyamjos/wedding-website
